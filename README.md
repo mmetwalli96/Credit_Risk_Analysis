@@ -27,5 +27,6 @@ Ensemble Summary Table:
 In summary:
 
 - The performance of all  resampling machine learning models is similar and leads to almost the same results. 
-- Ensemble machine learnign models outperformed resamling models in terms of higher accuracy, and higher recall and percession values for the class of high risk borrowers. 
+- Ensemble machine learnign models outperformed resamling models in terms of higher accuracy, and higher recall and percession values for the class of high risk borrowers.
+- ALL the models are aggressive and their implementation will result in the denial of many loans which will profit the lending organization. 
 - The developed models are not recommended to be used as they don't high percession in identifying the high risk loans. 
