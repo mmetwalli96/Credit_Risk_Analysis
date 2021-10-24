@@ -18,4 +18,14 @@ Resampling Summary Table:
 Ensemble Summary Table:
 |Screenshot|ML Name|Disscusion|
 |----------|-------|----------|
-|![Capture 188](https://user-images.githubusercontent.com/59425631/138581261-5fa2bae1-4fa9-40a4-ad7b-0c10cfc467d1.PNG) -![Capture 188](https://user-images.githubusercontent.com/59425631/138581268-806eca88-3ef4-449d-98c7-11a2b78fefe1.PNG)|-Balanced Random Forest Classifier, Easy Ensemble AdaBoost Classifier, respectively|
+|![Capture 188](https://user-images.githubusercontent.com/59425631/138581261-5fa2bae1-4fa9-40a4-ad7b-0c10cfc467d1.PNG) -![Capture 188](https://user-images.githubusercontent.com/59425631/138581268-806eca88-3ef4-449d-98c7-11a2b78fefe1.PNG)|-Balanced Random Forest Classifier, Easy Ensemble AdaBoost Classifier, respectively|The accurecy score is average to high. Regarding the the precession and sensitivity, they are bad for the high risk borrowers, and high for the low risk borrwers|
+
+---
+
+## Summary
+
+In summary:
+
+- The performance of all  resampling machine learning models is similar and leads to almost the same results. 
+- Ensemble machine learnign models outperformed resamling models in terms of higher accuracy, and higher recall and percession values for the class of high risk borrowers. 
+- The developed models are not recommended to be used as they don't high percession in identifying the high risk loans. 
